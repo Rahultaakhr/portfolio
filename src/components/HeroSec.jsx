@@ -29,7 +29,7 @@ function HeroSec() {
 
                 {/* Button */}
                 <button className="mt-4 px-8 py-3 text-lg font-semibold bg-gradient-to-r from-purple-500 to-blue-500 text-white rounded-full shadow-lg hover:shadow-purple-500/50 hover:scale-105 transform transition-all duration-300">
-                    <a href="public/resume.pdf" download={"Rahul_resume.pdf"}> View Resume <span className="inline-block ml-2">➡️</span></a>
+                    <a href="public\resume.pdf" download={"Rahul_resume.pdf"}> View Resume <span className="inline-block ml-2">➡️</span></a>
                 </button>
             </div>
 
